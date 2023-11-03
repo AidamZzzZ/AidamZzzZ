@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Adrian!</h1>
-<h3 align="center">Un desarrollador apasionado de python de Venezuela</h3>
+<h3 align="center">Un desarrollador apasionado de Python!</h3>
 
 - 🌱 Actualmente,estoy aprendiendo **Python,frameworks**
 
