@@ -32,15 +32,9 @@ Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi 
 
 ---
 
-### 📈 Estadísticas de GitHub
-![Stats de [Tu Usuario]](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
----
-
 ### 📫 Conectemos:
 - **LinkedIn:** [https://www.linkedin.com/in/adriangomezz/]
 - **Email:** [adrian_alliskair@hotmail.com]
-- **Portafolio:** [Link a tus proyectos destacados]
+- **Portafolio:** Pronto...
 
 "El aprendizaje es el único camino para dominar la inteligencia de las máquinas." 🚀
