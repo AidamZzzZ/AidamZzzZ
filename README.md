@@ -1,18 +1,46 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate full-stack developer!</h3>
+# ¡Hola! Soy [Tu Nombre] 👋 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
+### 🤖 Estudiante de Inteligencia Artificial | Python Developer 
+Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi **primer semestre de IA**, combinando mi formación académica con un aprendizaje autónomo intensivo en Machine Learning y mi experiencia.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AidamZzzZ](https://github.com/AidamZzzZ)
+---
 
-- 💬 Ask me about **Python, HTML, CSS**
+### 💼 Mi Trayectoria
+* **Python Developer:** Trabajé optimizando procesos y desarrollando lógica de negocio con Python, lo que me dio una base sólida en desarrollo backend y manejo de flujos de datos.
+* **Aprendizaje Autónomo (Actual):** Dedico tiempo diario a profundizar en matemáticas para IA, algoritmos de aprendizaje supervisado y análisis de datos.
 
-- 📫 How to reach me **adrian_alliskair@hotmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrian gómez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian gómez" height="30" width="40" /></a>
-</p>
+### 🛠️ Stack Tecnológico
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+**Lenguajes y Desarrollo:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Ciencia de Datos e IA:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🔭 En qué estoy trabajando
+- 🌱 Profundizando en **Scikit-learn** para modelos predictivos.
+- 📊 Creando visualizaciones avanzadas con **Seaborn** para identificar patrones en datos comerciales.
+- ⚡ Integrando mis conocimientos de **Django** con modelos de IA básicos.
+
+---
+
+### 📈 Estadísticas de GitHub
+![Stats de [Tu Usuario]](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+---
+
+### 📫 Conectemos:
+- **LinkedIn:** [Tu Perfil]
+- **Email:** [Tu Email]
+- **Portafolio:** [Link a tus proyectos destacados]
+
+"El aprendizaje es el único camino para dominar la inteligencia de las máquinas." 🚀
