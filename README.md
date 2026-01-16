@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋 
+# ¡Hola! Soy Adrian 👋 
 
 ### 🤖 Estudiante de Inteligencia Artificial | Python Developer 
 Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi **primer semestre de IA**, combinando mi formación académica con un aprendizaje autónomo intensivo en Machine Learning y mi experiencia.
@@ -39,8 +39,8 @@ Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi 
 ---
 
 ### 📫 Conectemos:
-- **LinkedIn:** [Tu Perfil]
-- **Email:** [Tu Email]
+- **LinkedIn:** [https://www.linkedin.com/in/adriangomezz/]
+- **Email:** [adrian_alliskair@hotmail.com]
 - **Portafolio:** [Link a tus proyectos destacados]
 
 "El aprendizaje es el único camino para dominar la inteligencia de las máquinas." 🚀
