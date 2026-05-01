@@ -1,7 +1,7 @@
 # ¡Hola! Soy Adrian 👋 
 
 ### 🤖 Estudiante de Inteligencia Artificial | Python Developer 
-Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi **primer semestre de IA**, combinando mi formación académica con un aprendizaje autónomo intensivo en Machine Learning y mi experiencia.
+Me apasiona transformar datos en soluciones estratégicas. Actualmente curso mi **segundo semestre en Ingenieria en IA**, combinando mi formación académica con un aprendizaje autónomo intensivo en Machine Learning y mi experiencia.
 
 ---
 
